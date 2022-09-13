@@ -1,0 +1,10 @@
+h1 {color:white;text-align: center; 
+background-color:DodgerBlue;}
+p{ color:black;background-color:lightblue;}
+
+body {
+  background-image: url('../img/GG.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
